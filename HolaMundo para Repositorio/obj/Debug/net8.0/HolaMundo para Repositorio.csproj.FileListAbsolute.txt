@@ -1,0 +1,14 @@
+C:\Users\lmijh\OneDrive\Escritorio\UPANA SEMESTRE II\Progrmación I\II PARTE\Visual Studio\HolaMundo para Repositorio\HolaMundo para Repositorio\bin\Debug\net8.0\HolaMundo para Repositorio.exe
+C:\Users\lmijh\OneDrive\Escritorio\UPANA SEMESTRE II\Progrmación I\II PARTE\Visual Studio\HolaMundo para Repositorio\HolaMundo para Repositorio\bin\Debug\net8.0\HolaMundo para Repositorio.deps.json
+C:\Users\lmijh\OneDrive\Escritorio\UPANA SEMESTRE II\Progrmación I\II PARTE\Visual Studio\HolaMundo para Repositorio\HolaMundo para Repositorio\bin\Debug\net8.0\HolaMundo para Repositorio.runtimeconfig.json
+C:\Users\lmijh\OneDrive\Escritorio\UPANA SEMESTRE II\Progrmación I\II PARTE\Visual Studio\HolaMundo para Repositorio\HolaMundo para Repositorio\bin\Debug\net8.0\HolaMundo para Repositorio.dll
+C:\Users\lmijh\OneDrive\Escritorio\UPANA SEMESTRE II\Progrmación I\II PARTE\Visual Studio\HolaMundo para Repositorio\HolaMundo para Repositorio\bin\Debug\net8.0\HolaMundo para Repositorio.pdb
+C:\Users\lmijh\OneDrive\Escritorio\UPANA SEMESTRE II\Progrmación I\II PARTE\Visual Studio\HolaMundo para Repositorio\HolaMundo para Repositorio\obj\Debug\net8.0\HolaMundo para Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmijh\OneDrive\Escritorio\UPANA SEMESTRE II\Progrmación I\II PARTE\Visual Studio\HolaMundo para Repositorio\HolaMundo para Repositorio\obj\Debug\net8.0\HolaMundo para Repositorio.AssemblyInfoInputs.cache
+C:\Users\lmijh\OneDrive\Escritorio\UPANA SEMESTRE II\Progrmación I\II PARTE\Visual Studio\HolaMundo para Repositorio\HolaMundo para Repositorio\obj\Debug\net8.0\HolaMundo para Repositorio.AssemblyInfo.cs
+C:\Users\lmijh\OneDrive\Escritorio\UPANA SEMESTRE II\Progrmación I\II PARTE\Visual Studio\HolaMundo para Repositorio\HolaMundo para Repositorio\obj\Debug\net8.0\HolaMundo para Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\lmijh\OneDrive\Escritorio\UPANA SEMESTRE II\Progrmación I\II PARTE\Visual Studio\HolaMundo para Repositorio\HolaMundo para Repositorio\obj\Debug\net8.0\HolaMundo para Repositorio.dll
+C:\Users\lmijh\OneDrive\Escritorio\UPANA SEMESTRE II\Progrmación I\II PARTE\Visual Studio\HolaMundo para Repositorio\HolaMundo para Repositorio\obj\Debug\net8.0\refint\HolaMundo para Repositorio.dll
+C:\Users\lmijh\OneDrive\Escritorio\UPANA SEMESTRE II\Progrmación I\II PARTE\Visual Studio\HolaMundo para Repositorio\HolaMundo para Repositorio\obj\Debug\net8.0\HolaMundo para Repositorio.pdb
+C:\Users\lmijh\OneDrive\Escritorio\UPANA SEMESTRE II\Progrmación I\II PARTE\Visual Studio\HolaMundo para Repositorio\HolaMundo para Repositorio\obj\Debug\net8.0\HolaMundo para Repositorio.genruntimeconfig.cache
+C:\Users\lmijh\OneDrive\Escritorio\UPANA SEMESTRE II\Progrmación I\II PARTE\Visual Studio\HolaMundo para Repositorio\HolaMundo para Repositorio\obj\Debug\net8.0\ref\HolaMundo para Repositorio.dll

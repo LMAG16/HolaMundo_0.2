@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lmijh\\OneDrive\\Escritorio\\UPANA SEMESTRE II\\Progrmaci\u00F3n I\\II PARTE\\Visual Studio\\HolaMundo para Repositorio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8BB290-D13A-4E1A-AFDB-1113DDF9CB51}|HolaMundo para Repositorio\\HolaMundo para Repositorio.csproj|c:\\users\\lmijh\\onedrive\\escritorio\\upana semestre ii\\progrmaci\u00F3n i\\ii parte\\visual studio\\holamundo para repositorio\\holamundo para repositorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8BB290-D13A-4E1A-AFDB-1113DDF9CB51}|HolaMundo para Repositorio\\HolaMundo para Repositorio.csproj|solutionrelative:holamundo para repositorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lmijh\\OneDrive\\Escritorio\\UPANA SEMESTRE II\\Progrmaci\u00F3n I\\II PARTE\\Visual Studio\\HolaMundo para Repositorio\\HolaMundo para Repositorio\\Program.cs",
+              "RelativeDocumentMoniker": "HolaMundo para Repositorio\\Program.cs",
+              "ToolTip": "C:\\Users\\lmijh\\OneDrive\\Escritorio\\UPANA SEMESTRE II\\Progrmaci\u00F3n I\\II PARTE\\Visual Studio\\HolaMundo para Repositorio\\HolaMundo para Repositorio\\Program.cs",
+              "RelativeToolTip": "HolaMundo para Repositorio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T19:58:58.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
